@@ -53,3 +53,13 @@
 </div>
 
 ###
+
+<h2 align="left">Certifications</h2>
+
+###
+
+<div>
+  <img class="share-ui__badge-image" src="https://images.credly.com/size/110x110/images/e91ed0b0-842b-417f-8d2f-b07535febdda/image.png" alt="Meta Front-End Developer Certificate" width="110" height="110">
+</div>
+
+###
