@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning MERN stack<br>🎯 Goals: To impact the world with code<br>🎲 Fun fact: Am a healthcare worker with dangerous experimentation at night</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning MERN stack<br>🎯 Goals: To impact the world with code<br>🎲 Fun fact: Am a healthcare worker with dangerous experimentations at night</p>
 
 ###
 
