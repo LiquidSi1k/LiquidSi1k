@@ -1,8 +1,22 @@
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/LiquidSi1k/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=LiquidSi1k&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is Vince and I'm a Full Stack Developer, from Singapore.</p>
+<p align="left">My name is Vince and I'm a Full Stack Developer from Singapore.</p>
 
 ###
 
@@ -14,7 +28,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning MERN stack<br>🎯 Goals: To impact the world with code<br>🎲 Fun fact: Am a healthcare worker with dangerous experimentations at night</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning MERN stack<br>🎯 Goals: To impact the world with code<br>🎲 Fun fact: Healer by day, coder by night</p>
 
 ###
 
