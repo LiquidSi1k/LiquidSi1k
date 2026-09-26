@@ -74,7 +74,8 @@
 
 <div>
   <img class="share-ui__badge-image" src="https://images.credly.com/size/110x110/images/e91ed0b0-842b-417f-8d2f-b07535febdda/image.png" alt="Meta Front-End Developer Certificate" width="110" height="110">
-</div>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="fef6bdd7-2964-4983-80a5-5cfd929c7acf" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src=“//cdn.credly.com/assets/utilities/embed.js”></script>
+
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="fef6bdd7-2964-4983-80a5-5cfd929c7acf" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src=“//cdn.credly.com/assets/utilities/embed.js”></script>
+</div>
 ###
